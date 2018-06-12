@@ -1,0 +1,21 @@
+git commands
+
+git init
+
+
+D:\web1>git config --global user.name "aasthagulati19"
+
+D:\web1>git config --global user.email "aasthagulati1998@gmail.com"
+
+git status
+
+git add filename
+
+git add .
+
+git commit -m "message"
+
+git remote add origin "URL"
+
+git push -u origin master
+
