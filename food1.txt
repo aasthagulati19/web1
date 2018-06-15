@@ -1,0 +1,48 @@
+<!doctype Html>
+
+<html>
+<head>
+<link href="style1.css" rel="stylesheet" >
+<title>Foodie</title>
+<h1><b>My Favourite Food</b></h1>
+ 
+ </head>
+
+
+
+<body>
+ 
+ <ul style="list-style-type:circle">
+
+ <li><a href="https://www.thekitchn.com/how-to-make-the-perfect-simple-salad-cooking-lessons-from-the-kitchn-173111">Dinner Salad</a></li>
+
+ <li><a href="https://www.bbcgoodfood.com/recipes/4683/pizza-margherita-in-4-easy-steps">Pizza</a></li>
+
+ <li><a href="https://www.marthastewart.com/1116161/italian-pasta-recipes">Italian Pasta</a></li>
+
+
+ <h2>Dinner Salad</h2>
+ <img src="D:\web1\watermelon.jpg" alt="Dinner Salad" height="300" width="400">
+ <p><i>"My salad days, When I was green in judgement, cold in blood."
+       -William Shakespeare.</i></p>
+ <p> Although the ancient Greeks and Romans did not use the word "salad," they enjoyed a variety of dishes with raw vegetables dressed with vinegar, oil, and herbs. Pliny the Elder in Natural History, for instance, reported that salads (acetaria) were composed of those garden products that "needed no fire for cooking and saved fuel, and which were a resource to store and always ready" (Natural History, XIX, 58). They were easy to digest and were not calculated to overload the senses or stimulate the appetite.</p>
+
+<h2>Pizza</h2>
+<img src="D:\web1\pizza.jpg" alt="Pizza" height="300" width="400">
+<p><i>"Ideas are like pizza dough, made to be tossed around."
+    -Anna Quindlen.</i></p>
+<p> Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.</p>
+
+<h2>Italian Pasta</h2>
+<img src="D:\web1\pasta.jpg" alt="Italian Pasta" height="300" width="400">
+<p><i>"Not only are pasta dishes delicious, but they are also great, easy options for a quick dinner during a busy weekday."     - Marcus Samuelsson.</i></p>
+<p>A healthy pasta meal is truly the sum of its parts, and features two key factors: what you pair with your pasta, and how much pasta you eat in a meal. Pasta is an ideal partner for healthy foods and ingredients such as vegetables, beans, and herbs (whole or in sauce form) and extra virgin olive oil. Nuts, ?sh, and small amounts of meat or cheese can also be added for extra ?avor and protein. Pasta’s versatility allows for almost endless preparations. Healthy pasta meals are a balance of pleasure and health!</p>
+</body>
+</htlm>
+
+ 
+
+
+
+
+      
